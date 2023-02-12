@@ -1,5 +1,5 @@
 # thingtodo-gen list file (https://github.com/woofledev/thingtodo-gen)
-# this file contains the "things" that are randomly selected, except these first four lines.
+# this file contains the "things" that are randomly selected, except these first 3 lines.
 # want to add something here? make a pr.
 
 go outside
