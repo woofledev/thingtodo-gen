@@ -1,0 +1,14 @@
+# thingtodo-gen list file (https://github.com/woofledev/thingtodo-gen)
+# this file contains the "things" that are randomly selected, except these first four lines.
+# want to add something here? make a pr.
+
+go outside
+drink coffee (or tea, water..)
+go swimming (if you can)
+play a game
+talk to friends
+hang out with friends
+go camping
+study/learn new things
+listen to music
+start a youtube channel or blog (or something similar)
